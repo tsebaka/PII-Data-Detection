@@ -16,3 +16,6 @@
 * Warnings can be disregarded as the system operates smoothly.
 * Only one model type is available due to the tokenizer used.
 * Testing can be conducted on train folds.
+
+## how to run (data_get.sh and scripts soon)
+* run notebook solution.ipynb
